@@ -1,5 +1,5 @@
 # CodeQuery
-This webpage finds you a desired cp question from leetcode using provided keywords. The backend is in flask and python. 
+This webpage finds you a desired cp question from leetcode using provided keywords. The backend is in flask and python. Uses TF-IDF algorithm.
 
 Hosted link: https://codequery-cqzk.onrender.com/
 
