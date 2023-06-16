@@ -14,7 +14,6 @@ Link to the Codeforces Scraper made: https://github.com/UtsavMandal2022/CF_quest
 How to run the code locally:
 (On terminal)
 packages:
-pip install flask
-pip install flask-wtf
+pip install flask flask-wtf
 
 To run it simply run the app.py file or do python app.py and the local server will start on your device. Further open the link in the terminal to view the page.
